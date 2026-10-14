@@ -36,14 +36,14 @@ Voici les deux vues principales conçues sous Power BI à partir des tables agr�
 ### 1. Vue Globale & Performance des Agences (Overview)
 > Analyse de la répartition des comptes, volume total des transactions et santé financière des agences.
 
-![Dashboard Vue Globale](docs/images/dashboard_overview.png)
+![Dashboard Vue Globale](docs/images/page1 visualization.png)
 
 ---
 
 ### 2. Analyse Client 360 & Détection des Fraudes
 > Segmentation client, distribution des transactions suspectes et indicateurs de risque bancaire.
 
-![Dashboard Analyse Fraudes et Risques](docs/images/fraud_and_kpi.png)
+![Dashboard Analyse Fraudes et Risques](docs/images/page2 Visualization.png)
 
 *(Astuce : Vous pouvez zoomer sur les images en cliquant dessus sur GitHub)*
 
